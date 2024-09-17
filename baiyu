@@ -29,7 +29,7 @@ int main()
 		
 	if (right < left)
 	{
-		printf("找不到\n");
+		printf("666666666\n");
 	}
 		return 0;
 }
